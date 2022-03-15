@@ -189,7 +189,6 @@ cc_defaults {
         "libcrypto",
         "libfec",
         "libziparchive",
-        "libselinux",
     ],
 }
 
